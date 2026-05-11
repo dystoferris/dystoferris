@@ -2,8 +2,6 @@
 <h3 align="center">feel free to reach me if u have any questions.</h3>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=bunchizmus&show_icons=true&theme=gruvbox" alt="pathetic" width="350" height="140"/>
-
 <br />
 
 <h1 align="center">what i use:</h1>
