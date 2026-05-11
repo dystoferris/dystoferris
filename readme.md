@@ -14,7 +14,6 @@
 </p>
 <h3 align="center">tools:</h3>
 <p align="center">
-<code><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/640px-Visual_Studio_Icon_2019.svg.png"></code>
 <code><img width="5%" src="https://vscodium.com/img/codium_cnl.svg"></code>
 <code><img width="5%" src="https://cdn.freebiesupply.com/logos/large/2x/clion-1-logo-png-transparent.png"></code>
 </p>
