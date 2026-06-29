@@ -1,4 +1,4 @@
-<h1 align="center">hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" /> i'm frenchie </h1>
+<h1 align="center">hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="32" /> i'm ferris </h1>
 <h3 align="center">feel free to reach me if u have any questions.</h3>
 <br />
 <p align="center">
